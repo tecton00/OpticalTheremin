@@ -1,4 +1,4 @@
-# OpticalTheremin
+# OpticalTheremin  光学式テルミンのつくり方
 
 ![PXL_20221016_045845800](https://user-images.githubusercontent.com/32199043/196037198-41fba849-1c8b-4d98-ae70-c78c6571c0bd.jpg)
 
@@ -11,7 +11,7 @@ http://www.oldtemecula.com/theremin/rs-opticaltheremin/rs-opticaltheremin.htm
 https://www.instructables.com/How-To-Build-An-Optical-Theremin/
 
 ## パーツリスト
-一般的な電子部品を組み合わせていますので、いずれも秋月電子等のショップから数十円程度で入手できます。
+一般的な電子部品を使っていますので、[秋月電子通商](https://akizukidenshi.com/)等のショップから数十円程度で入手できます。
 
 |  記号  |  パーツ  | 必要数 | 秋月電子パーツNo |
 | ---- | ---- | ---- | ---- |
@@ -43,4 +43,4 @@ https://www.instructables.com/How-To-Build-An-Optical-Theremin/
 ## 動作確認
 すべてのパーツが問題なく取り付けられていれば、スイッチを入れると音が鳴るはずです。光を当てたりさえぎったりして、音が変化すれば正常です。
 
-Have a good soldering day!!
+Have a nice soldering day!!
