@@ -1,3 +1,4 @@
 # OpticalTheremin
 光学式のテルミン風装置を組み立てる
-![PXL_20221016_045626320](https://user-images.githubusercontent.com/32199043/196036767-105de462-1bf7-4078-a1a6-612f0029a694.jpg)
+
+![PXL_20221016_045845800](https://user-images.githubusercontent.com/32199043/196037198-41fba849-1c8b-4d98-ae70-c78c6571c0bd.jpg)
