@@ -3,7 +3,9 @@
 ![PXL_20221016_045845800](https://user-images.githubusercontent.com/32199043/196037198-41fba849-1c8b-4d98-ae70-c78c6571c0bd.jpg)
 
 このページは専用のプリント基板を入手された方向けに作り方を説明したものです。
+
 回路図等のオリジナルの情報源はこちら
+
 http://www.oldtemecula.com/theremin/rs-opticaltheremin/rs-opticaltheremin.htm
 
 https://www.instructables.com/How-To-Build-An-Optical-Theremin/
