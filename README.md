@@ -11,7 +11,7 @@ http://www.oldtemecula.com/theremin/rs-opticaltheremin/rs-opticaltheremin.htm
 https://www.instructables.com/How-To-Build-An-Optical-Theremin/
 
 ## パーツリスト
-一般的な電子部品を使っていますので、[秋月電子通商](https://akizukidenshi.com/)等のショップから数十円程度で入手できます。
+一般的な電子部品を使っていますので、[秋月電子通商](https://akizukidenshi.com/)等のショップからそれぞれ数十円程度で入手できます。
 
 |  記号  |  パーツ  | 必要数 | 秋月電子パーツNo |
 | ---- | ---- | ---- | ---- |
